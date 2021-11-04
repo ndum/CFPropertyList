@@ -1,4 +1,10 @@
-# CFPropertyList
+# plist-parser
+
+This Laravel-Package provides the possibility to read, write and parse plist-files
+
+> This Project is a fork of 
+> [TECLIB/CFPropertyList](https://github.com/TECLIB/CFPropertyList)
+> Thanks for the nice work! I use this package as a helper class for my [ndum/laravel-seb](https://github.com/ndum/laravel-seb) package.
 
 ![Teclib' Banner](https://user-images.githubusercontent.com/29282308/31669540-abed67a8-b355-11e7-98e2-0ad190f37088.png)
 
