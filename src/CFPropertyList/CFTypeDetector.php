@@ -223,6 +223,9 @@ class CFTypeDetector
                 if (strpos($value, "\x00") !== false) {
                     return new CFData($value);
                 }
+                if (strpos($value, "x00") !== false) {
+                    return new CFData('');
+                }
                 return new CFString($value);
 
             break;
