@@ -1,6 +1,6 @@
 # plist-parser
 
-This Laravel-Package provides the possibility to read, write and parse plist-files
+This package provides the possibility to read, write and parse plist-files
 
 > This Project is a fork of 
 > [TECLIB/CFPropertyList](https://github.com/TECLIB/CFPropertyList)
